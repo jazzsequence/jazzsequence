@@ -17,6 +17,6 @@ I also [write](https://jazzsequence.com/articles/) and play <a href="https://en.
 
 I am 1/3 of the podcast [Binary Jazz](https://binaryjazz.com) -- we write [code](https://github.com/BinaryJazz), too.
 
-- 🌱 I’m always looking to learn and practise more JavaScript and React
+- 🌱 I’m primarily a PHP developer but I'm always looking to learn and practise more JavaScript and React
 - 👯 I’m interested in collaborating with other TTRPG content creators on games and D&D (or other TTRPG) content
 - 📫 You can find me in a lot of [places](https://jazzsequence.github.io) but I'm probably most active socially on [Twitter](https://twitter.com/jazzs3quence), [Instagram](https://instagram.com/jazzs3quence) and Discord (`jazzsequence#0393`).
