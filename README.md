@@ -1,6 +1,6 @@
 ### Hi 👋 I'm Chris, [jazzsequence](https://jazzsequence.com) on the internet.
 
-#### My pronouns are he/him and they/them.
+#### My pronouns are he/they.
 
 I am a <!-- break up titles/company to make version controlling easier -->
 Software Engineer
