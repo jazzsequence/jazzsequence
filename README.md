@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋 I'm Chris.
+
+#### My pronouns are he/him and they/them.
+
+I am a <!-- break up titles/company to make version controlling easier -->
+Software Engineer
+and Technical Lead for WordPress
+on the CMS Ecosystem team
+at [Pantheon](https://pantheon.io)
 
 <!--
 **jazzsequence/jazzsequence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
