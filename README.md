@@ -3,9 +3,9 @@
 #### My pronouns are he/they.
 
 I am a <!-- break up titles/company to make version controlling easier -->
-Software Engineer
+Senior Software Engineer
 and Technical Lead for WordPress
-on the CMS Ecosystem team
+on the CMS Platform team
 at [Pantheon](https://pantheon.io)
 
 I have been building things with WordPress for over
