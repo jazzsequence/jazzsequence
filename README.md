@@ -19,4 +19,4 @@ I am 1/3 of the podcast [Binary Jazz](https://binaryjazz.com) -- we write [code]
 
 - 🌱 I’m primarily a PHP developer but I'm always looking to learn and practise more JavaScript and React
 - 👯 I’m interested in collaborating with other TTRPG content creators on games and D&D (or other TTRPG) content
-- 📫 You can find me in a lot of [places](https://jazzsequence.github.io) but I'm probably most active socially on [Mastodon](https://mstdn.social/@jazzsequence), [Twitter](https://twitter.com/jazzs3quence), [Instagram](https://instagram.com/jazzs3quence) and Discord (`jazzsequence#0393`).
+- 📫 You can find me in a lot of [places](https://jazzsequence.github.io) but I'm probably most active socially on [Instagram](https://instagram.com/jazzs3quence), [Mastodon](https://mstdn.social/@jazzsequence), and Discord (`@jazzsequence`).
