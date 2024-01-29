@@ -4,8 +4,8 @@
 
 I am a <!-- break up titles/company to make version controlling easier -->
 Senior Software Engineer
-and Technical Lead for WordPress
-on the CMS Platform team
+and Technical Lead
+on the CMS Performance team
 at [Pantheon](https://pantheon.io)
 
 I have been building things with WordPress for over
