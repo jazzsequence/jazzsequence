@@ -13,7 +13,7 @@ I have been building things with WordPress for over
 and making things on the internet for over
 20 years.
 
-I also [write](https://jazzsequence.com/articles/) and play <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game" title="tabletop role playing games">TTRPGs</a> and create [homebrew content](https://homebrewery.naturalcrit.com/user/jazzsequence) for Dungeons & Dragons that you can also [support on DMsGuild](https://www.dmsguild.com/browse.php?author=Chris%20Reynolds). You can find more fiction and game design work on my [blog](https://jazzsequence.com).
+I also [write](https://jazzsequence.com/articles/) and play <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game" title="tabletop role playing games">TTRPGs</a> and create [homebrew content](https://homebrewery.naturalcrit.com/user/jazzsequence) for Dungeons & Dragons that you can also [support on DMsGuild](https://www.dmsguild.com/browse.php?author=Chris%20Reynolds). You can find more fiction and game design work on my [blog](https://jazzsequence.com). Currently, I'm writing my first novel.
 
 I'm casually interested in AI and LLMs and have been writing about my experiments on [my blog](https://jazzsequence.com/series/artificial-intelligence/).
 
