@@ -3,7 +3,7 @@
 #### My pronouns are he/they.
 
 I am a <!-- break up titles/company to make version controlling easier -->
-Senior Developer Advocate
+Developer Advocate
 at [Pantheon](https://pantheon.io)
 
 I have been building things with WordPress for over
