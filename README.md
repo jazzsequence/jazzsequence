@@ -27,7 +27,6 @@ Over the years, I've written a lot of WordPress plugins and themes for personal 
 
 #### WordPress Plugins
 
-|----------|---------------|
 | **Name** | *Description* |
 |----------|---------------|
 | [Address Book](https://github.com/jazzsequence/address-book) | *A WordPress plugin for storing and maintaining addresses*  |
@@ -55,11 +54,9 @@ Over the years, I've written a lot of WordPress plugins and themes for personal 
 | [Updated Blog Metrics](https://github.com/jazzsequence/Updated-Blog-Metrics) (Archived) | *Based on Joost's Blog Metrics plugin, this WordPress Plugin provides author metrics over the past year, rather than just the past 30 days* |
 | [Press Page](https://github.com/jazzsequence/press-page) (Archived) | *A WordPress plugin to display a custom post type for press features in a horizontal sliding scroll* |
 | [Reviews](https://github.com/jazzsequence/Reviews) (Archived) | *A WordPress plugin for music reviews, can be used in conjunction with Artists and Releases (or not)* |
-|----------|---------------|
 
 #### WordPress Themes
 
-|----------|---------------|
 | **Name** | *Description* |
 |----------|---------------|
 | [Museum Core](https://github.com/jazzsequence/museum-core) | *A simple, responsive WordPress theme/framework with support for internationalization, post formats, thumbnails, background, header, menus, custom favicon and more...* |
@@ -67,4 +64,3 @@ Over the years, I've written a lot of WordPress plugins and themes for personal 
 | [OCSLC](https://github.com/jazzsequence/OCSLC) (Archived) | *A WordPress child theme of Mimbo for the Salt Lake City Open Classroom* |
 | [Grid](https://github.com/jazzsequence/Grid) (Archived) | *a stylish, grid-based theme that mocks grid-based themes.* |
 | [Baby SweetTooth](https://github.com/jazzsequence/Baby-SweetTooth) (Archived) | *Pink and polkadotted, a free theme for your baby girl.* |
-|----------|---------------|
