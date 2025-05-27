@@ -23,6 +23,9 @@ I am 1/3 of the podcast [Binary Jazz](https://binaryjazz.com) -- we write [code]
 - 📫 You can find me in a lot of [places](https://jazzsequence.github.io) but I'm probably most active socially on [Instagram](https://instagram.com/jazzs3quence), [Threads](https://www.threads.net/@jazzs3quence), [Mastodon](https://mstdn.social/@jazzsequence), and Discord (`@jazzsequence`).
 
 ### WordPress Plugins and Themes
+
+[![jazzs3quence on WordPress.org](https://www.cardpress.us/card?username=jazzs3quence&badges=true)](https://www.cardpress.us/)
+
 Over the years, I've written a lot of WordPress plugins and themes for personal projects, freelance projects and professional projects. Some of these are still actively maintained while some have fallen into history.
 
 <details>
