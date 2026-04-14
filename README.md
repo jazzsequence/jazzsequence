@@ -7,16 +7,20 @@ Senior Developer Advocate
 at [Pantheon](https://pantheon.io)
 
 I have been building things with WordPress for over
-18 years
+20 years
 and making things on the internet for over
-25 years.
+30 years.
 
-I also [write](https://jazzsequence.com/articles/) and play <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game" title="tabletop role playing games">TTRPGs</a> and create [homebrew content](https://homebrewery.naturalcrit.com/user/jazzsequence) for Dungeons & Dragons that you can also [support on DMsGuild](https://www.dmsguild.com/browse.php?author=Chris%20Reynolds). You can find more fiction and game design work on my [blog](https://jazzsequence.com). Currently, I'm writing my first novel.
+I also [write](https://jazzsequence.com/articles/) and play <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game" title="tabletop role playing games">TTRPGs</a> and create [homebrew content](https://homebrewery.naturalcrit.com/user/jazzsequence) for Dungeons & Dragons that you can also [support on DMsGuild](https://www.dmsguild.com/browse.php?author=Chris%20Reynolds). You can find more fiction and game design work on my [blog](https://next.jazzsequence.com). 
 
-I'm casually interested in AI and LLMs and have been writing about my experiments on [my blog](https://jazzsequence.com/series/artificial-intelligence/).
+I'm casually interested in AI and LLMs and have been writing about my experiments on [my blog](https://next.jazzsequence.com/series/artificial-intelligence/).
 
 I am the host of [_Community_ + Code](https://communitycode.dev) a podcast about people in developer communities.
 Previously, I was 1/3 of the podcast [Binary Jazz](https://binaryjazz.com) -- we write [code](https://github.com/BinaryJazz), too.
+
+I am the
+interim
+President of [The WP Community Collective](https://thewpcommunitycollective.com), a member-based non-profit organization striving to make WordPress contribution sustainable.
 
 - 🌱 I’m primarily a PHP developer but I'm always looking to learn and practise more JavaScript and React.
 - 💻 Recently, I've been writing a lot of server-side scripts and CI automations and really enjoy writing new GitHub Actions. You can checkout my [Brewfile profile](https://www.brewfiles.com/brew/KLMTzN28kH3Ym4chgPvw/) on [brewfiles.com](https://brewfiles.com).
