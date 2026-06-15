@@ -38,6 +38,7 @@ Over the years, I've written a lot of WordPress plugins and themes for personal 
   
   | **Name** | *Description* |
   |----------|---------------|
+  | [Priority Manager for AI Connectors](https://github.com/jazzsequence/jazzs3quence-priority-manager-for-ai-connectors) | *Choose which AI provider to use for each task type (text, image, vision).* |
   | [Address Book](https://github.com/jazzsequence/address-book) | *A WordPress plugin for storing and maintaining addresses*  |
   | [Book Review Library](https://github.com/jazzsequence/book-review-library) | *A book cataloguing and review system designed with bookophiles and librarians in mind.* |
   | [Horror Ipsum](https://github.com/jazzsequence/horror-ipsum) | *WordPress plugin that generates horror-themed lorem ipsum text in a Gutenberg block.* |
