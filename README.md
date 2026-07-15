@@ -3,7 +3,7 @@
 #### My pronouns are he/they.
 
 I am a <!-- break up titles/company to make version controlling easier -->
-Senior Developer Advocate
+Senior Manager of Developer Relations
 at [Pantheon](https://pantheon.io)
 
 I have been building things with WordPress for over
@@ -11,7 +11,7 @@ I have been building things with WordPress for over
 and making things on the internet for over
 30 years.
 
-I also [write](https://jazzsequence.com/articles/) and play <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game" title="tabletop role playing games">TTRPGs</a> and create [homebrew content](https://homebrewery.naturalcrit.com/user/jazzsequence) for Dungeons & Dragons that you can also [support on DMsGuild](https://www.dmsguild.com/browse.php?author=Chris%20Reynolds). You can find more fiction and game design work on my [blog](https://next.jazzsequence.com). 
+I also [write](https://next.jazzsequence.com/articles/) and play <a href="https://en.wikipedia.org/wiki/Tabletop_role-playing_game" title="tabletop role playing games">TTRPGs</a> and create [homebrew content](https://homebrewery.naturalcrit.com/user/jazzsequence) for Dungeons & Dragons that you can also [support on DMsGuild](https://www.dmsguild.com/browse.php?author=Chris%20Reynolds). You can find more fiction and game design work on my [blog](https://next.jazzsequence.com). 
 
 I'm casually interested in AI and LLMs and have been writing about my experiments on [my blog](https://next.jazzsequence.com/series/artificial-intelligence/).
 
