@@ -29,7 +29,7 @@ President of [The WP Community Collective](https://thewpcommunitycollective.com)
 
 ### WordPress Plugins and Themes
 
-[![jazzs3quence on WordPress.org](https://www.cardpress.us/card?username=jazzs3quence&badges=true&refresh=true&link=true)](https://www.cardpress.us/)
+<!-- [![jazzs3quence on WordPress.org](https://www.cardpress.us/card?username=jazzs3quence&badges=true&refresh=true&link=true)](https://www.cardpress.us/) this is currently broken -->
 
 Over the years, I've written a lot of WordPress plugins and themes for personal projects, freelance projects and professional projects. Some of these are still actively maintained while some have fallen into history.
 
