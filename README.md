@@ -20,10 +20,10 @@ Previously, I was 1/3 of the podcast [Binary Jazz](https://binaryjazz.com) -- we
 
 I am the
 interim
-President of [The WP Community Collective](https://thewpcommunitycollective.com), a member-based non-profit organization striving to make WordPress contribution sustainable.
+President of [The WP Open Community Collective](https://thewpcommunitycollective.com), a member-based non-profit organization striving to make WordPress contribution sustainable.
 
-- 🌱 I’m primarily a PHP developer but I'm always looking to learn and practise more JavaScript and React.
-- 💻 Recently, I've been writing a lot of server-side scripts and CI automations and really enjoy writing new GitHub Actions. You can checkout my [Brewfile profile](https://www.brewfiles.com/brew/KLMTzN28kH3Ym4chgPvw/) on [brewfiles.com](https://brewfiles.com).
+- 🌱 I’m primarily a PHP developer, but I'm always looking to learn and practice more JavaScript and React.
+- 💻 Recently, I've been writing a lot of server-side scripts and CI automations and really enjoy writing new GitHub Actions. You can check out my [Brewfile profile](https://www.brewfiles.com/brew/KLMTzN28kH3Ym4chgPvw/) on [brewfiles.com](https://brewfiles.com).
 - 👯 I’m interested in collaborating with other TTRPG content creators on games and D&D (or other TTRPG) content.
 - 📫 You can find me in a lot of [places](https://jazzsequence.github.io) but I'm probably most active socially on [Instagram](https://instagram.com/jazzs3quence), [Bluesky](https://bsky.app/profile/jazzsequence.com) and Discord (`@jazzsequence`).
 
@@ -31,7 +31,7 @@ President of [The WP Community Collective](https://thewpcommunitycollective.com)
 
 <!-- [![jazzs3quence on WordPress.org](https://www.cardpress.us/card?username=jazzs3quence&badges=true&refresh=true&link=true)](https://www.cardpress.us/) this is currently broken -->
 
-Over the years, I've written a lot of WordPress plugins and themes for personal projects, freelance projects and professional projects. Some of these are still actively maintained while some have fallen into history.
+Over the years, I've written a lot of WordPress plugins and themes for personal projects, freelance projects, and professional projects. Some of these are still actively maintained while some have fallen into history.
 
 <details>
   <summary><strong>WordPress Plugins</strong></summary>
